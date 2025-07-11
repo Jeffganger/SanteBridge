@@ -1,6 +1,3 @@
-Edit Change 11:37AM 7/11/2025
-Check to see Grok can see a committed change
-
 **CoreSetup_Architecture_V1.0**
 
 **Version**: V1.0  
