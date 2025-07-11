@@ -1,5 +1,3 @@
-Checking if Grok can get an update/refresh to cache with just directory view snapshot of time stamp.
-
 **CoreSetup Requirements V1.20**
 
 Version: V1.20, 4/04/25  
